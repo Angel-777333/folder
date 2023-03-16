@@ -19,6 +19,7 @@ public class Sample_A {
 		System.out.println("join :" +join);
 		boolean empty = s.isEmpty();
 		System.out.println("is empty or not :"+empty);
+		driver.quit();
 
 	}
 
